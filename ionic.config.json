@@ -1,0 +1,8 @@
+{
+  "name": "foodMe",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "ee81879d"
+}
